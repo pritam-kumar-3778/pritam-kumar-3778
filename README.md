@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pritam Kumar Patel</h1>
 <h3 align="center">A passionate Full Stack developer and Java Programmer as well.</h3>
 
-<img align="right" alt="coding GIF" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47km8brpadf63hih3yufmgbdxjff1hwnqrydxayici&ep=v1_gifs_search&rid=200.webp&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-kumar-3778&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-kumar-3778" /> </p>
 
-- 🌱 I’m currently learning **Advance Java and MERN Stack**
+- 🌱 I’m currently learning **Master In Computer Application (2022-24)**
 
 - 💬 Ask me about **C Programming, Java Programming, MERN stack technology, My SQL, Computer networking and software testing concepts.**
 
@@ -15,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pritamkumar3778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritamkumar3778" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pritam-kumar-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-patel" height="30" width="40" /></a>
-<a href="https://instagram.com/pritam_kumar_3778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pritam_kumar_3778" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pritam-kumar-patel-16aa68248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-patel" height="30" width="40" /></a>
+  
 <a href="https://www.leetcode.com/pritamkumar3778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritamkumar3778" height="30" width="40" /></a>
+
 <a href="https://discord.gg/https://discord.gg/tneTyjmZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tneTyjmZ" height="30" width="40" /></a>
 </p>
 
