@@ -14,8 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pritam-kumar-patel-16aa68248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-patel" height="30" width="40" /></a>
-  
-<a href="https://www.leetcode.com/pritamkumar3778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritamkumar3778" height="30" width="40" /></a>
 
 <a href="https://discord.gg/https://discord.gg/tneTyjmZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tneTyjmZ" height="30" width="40" /></a>
 </p>
