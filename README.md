@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pritamkumarpatel1212@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yy_r-wdohYBb4dFp9fgy7CvF_d2OzW9f/view?usp=sharing](https://drive.google.com/file/d/1Yy_r-wdohYBb4dFp9fgy7CvF_d2OzW9f/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Yy_r-wdohYBb4dFp9fgy7CvF_d2OzW9f/view?usp=sharing](https://drive.google.com/file/d/18T1Ymsn42QET87W4YHhTVWk4tZUQfkHi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
