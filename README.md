@@ -37,10 +37,14 @@ and making a positive impact through my work.
 ![Spring Security](https://img.shields.io/badge/Spring%20Security%20-6DA55F?style=flat-square&logo=Spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) 
+![Android Studio](https://img.shields.io/badge/Android-studio-white?style=flat-square&logo=JSON%20web%20tokens) 
+
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
-![Hoppscotch](https://img.shields.io/badge/Hoppscotch-FF6C37?style=flat-square&logo=hoppscotch&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-FF6C37?style=flat-square&logo=git&logoColor=white) 
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%234ea94b.svg?style=flat-square&logo=hoppscotch&logoColor=white) 
+![git](https://img.shields.io/badge/Git-CA4245?style=flat-square&logo=git&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23E34F26.svg?style=flat-square&logo=figma&logoColor=white) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=asrinibash&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asrinibash&theme=radical&hide_border=true)<br/>
