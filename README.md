@@ -1,36 +1,49 @@
-<h1 align="center">Hi 👋, I'm Pritam Kumar Patel</h1>
-<h3 align="center">A passionate Full Stack developer and Java Programmer as well.</h3>
+# 💫 About Me:
+- Hi 👋, I'm Pritam Kumar Patel<br>
+- I’m a Full Stack Developer and Tech Enthusiast <br>
+- I’m currently learning Spring boot and Spring security. And improving problem solving skills by practice DSA (Java) problems from leetcode.<br>
+- Ask me about MERN(Mongo DB, Express JS, React JS, Node JS) along eith this HTML, CSS, Java Script and Spring Boot for development <br>
+- How to reach me pritamkumarpatel1212@gmail.com<br>
+- I am passionate about staying up-to-date with the 
+latest trends and technologies in the field of 
+software development,
+and I am committed to delivering high-quality solutions 
+that exceed expectations. Whether working independently
+or as part of a team, I am dedicated to achieving success 
+and making a positive impact through my work.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-kumar-3778&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-kumar-3778" /> </p>
 
-- 🌱 I’m currently learning **Advance Java, DSA and MERN Stack**
+## 🌐 Links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-kumar-patel-16aa68248/) [![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=Leetcode&logoColor=white)](https://leetcode.com/pritamkumar3778/) 
 
-- 💬 Ask me about **C Programming, Java Programming, MERN stack technology, My SQL, Computer networking and software testing concepts.**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 
-- 📫 How to reach me **pritamkumarpatel1212@gmail.com**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring%20Boot%20-6DA55F?style=flat-square&logo=Spring&logoColor=white) 
+![Spring Security](https://img.shields.io/badge/Spring%20Security%20-6DA55F?style=flat-square&logo=Spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yy_r-wdohYBb4dFp9fgy7CvF_d2OzW9f/view?usp=sharing](https://drive.google.com/file/d/18T1Ymsn42QET87W4YHhTVWk4tZUQfkHi/view?usp=sharing)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-FF6C37?style=flat-square&logo=hoppscotch&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-FF6C37?style=flat-square&logo=git&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=asrinibash&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=asrinibash&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asrinibash&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pritam-kumar-patel-16aa68248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam-kumar-patel" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://drive.google.com/drive/folders/1Eo4-Y97-0sauKAuDgrQour7xcEypL6G-?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://drive.google.com/drive/folders/1-_kAbkCFdaq_u9Uq8vEHeGGM9GTSREGI?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://drive.google.com/drive/folders/1VR0Y0FU0QI8i_doasV-fEw4MobMjS5_1?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-
-<a href="https://drive.google.com/drive/folders/1gdAa9f93waW0xTb1ma364xeEB82KQtua?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://drive.google.com/drive/folders/1iQT3baZfUUNubvj8Yhxan45OZ1-t4pId?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://drive.google.com/drive/folders/1-_kAbkCFdaq_u9Uq8vEHeGGM9GTSREGI?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="60" height="40"/> </a> <a href="https://drive.google.com/drive/folders/1BeJfukwMmO9NrjaWaWB-aUtVmD2vLKlD?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://drive.google.com/drive/folders/1EubYJkdoFuzzOVFUmPyUj5XCOj8c8Yu8?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="express" width="60" height="40"/> </a> <a href="https://drive.google.com/drive/folders/1yBVds3h0UO8XIKFyqx-_GUYbpDX6efND?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://drive.google.com/drive/folders/1Sh9oU-3ASFiodFB3Qv8q3e7xdJc-Gw1D?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
-<a href="https://drive.google.com/drive/folders/1NkQX19kd-t9hNxhzjKq1CE8FqIzbSEV8?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://drive.google.com/drive/folders/1BeJfukwMmO9NrjaWaWB-aUtVmD2vLKlD?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://hoppscotch.io/?source=pwa" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/56705483" alt="hoppscotch" width="40" height="40"/> </a>
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-
-<a href="https://drive.google.com/drive/folders/1IQnvlINV92DMLvFEAdGGRaxKkESdg7yX?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" alt="Figma" width="40" height="40"/> </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam-kumar-3778&show_icons=true&locale=en&layout=compact" alt="pritam-kumar-3778" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam-kumar-3778&show_icons=true&locale=en" alt="pritam-kumar-3778" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
