@@ -14,7 +14,7 @@ and making a positive impact through my work.
 
 
 ## 🌐 Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-kumar-patel-16aa68248/) [![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=Leetcode&logoColor=white)](https://leetcode.com/pritamkumar3778/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-kumar-patel-16aa68248/) [![Leetcode](https://img.shields.io/badge/Leetcode-000000?logo=Leetcode&logoColor=white)](https://leetcode.com/pritamkumar3778/)  [![Medium](https://img.shields.io/badge/Medium-000000?logo=MediumlogoColor=white)](https://medium.com/@pritamkumarpatel1212) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
