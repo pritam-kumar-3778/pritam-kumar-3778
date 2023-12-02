@@ -29,6 +29,7 @@ and making a positive impact through my work.
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![Sanity.io](https://img.shields.io/badge/Sanity-CA4245?style=flat-square&logo=sanity&logoColor=white)  
 ![Vitejs](https://img.shields.io/badge/vitejs-%23593d88.svg?style=flat-square&logo=vitejs&logoColor=white)
 ![MUI](https://img.shields.io/badge/mui-%231572B6.svg?style=flat-square&logo=mui&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) 
