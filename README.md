@@ -44,6 +44,8 @@ and making a positive impact through my work.
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) 
 ![Android Studio](https://img.shields.io/badge/Android-studio-white?style=flat-square&logo=JSON%20web%20tokens) 
+![Power BI](https://img.shields.io/badge/Power-BI-%23ED8B00.svg?style=flat-square&logo=Power-BI&logoColor=yellow) 
+
 
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
