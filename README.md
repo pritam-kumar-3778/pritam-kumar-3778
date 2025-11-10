@@ -6,6 +6,7 @@ Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semes
 - > Python programming.
 
 ## 🌐 Links:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://pritam-tech.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-kumar-patel-16aa68248/) [![Leetcode](https://img.shields.io/badge/Leetcode-yellow?logo=Leetcode&logoColor=white)](https://leetcode.com/pritamkumar3778/)  [![Medium](https://img.shields.io/badge/Medium-000000?logo=MediumlogoColor=white)](https://medium.com/@pritamkumarpatel1212) [![Quora](https://img.shields.io/badge/Quora-red?logo=MediumlogoColor=white)](https://www.quora.com/profile/Pritam-Kumar-Patel-8/) 
 
 
