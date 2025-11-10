@@ -12,6 +12,8 @@ Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semes
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=flat-square&logo=python&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 
@@ -30,8 +32,7 @@ Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semes
 ![MUI](https://img.shields.io/badge/mui-%231572B6.svg?style=flat-square&logo=mui&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
-![Mongoose](https://img.shields.io/badge/Mongoose-CA4245?style=flat-square&logo=mongoose&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-CA4245?style=flat-square&logo=mongoose&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring%20Boot%20-6DA55F?style=flat-square&logo=Spring&logoColor=white) 
 ![Spring Security](https://img.shields.io/badge/Spring%20Security%20-6DA55F?style=flat-square&logo=Spring&logoColor=white)
