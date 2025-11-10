@@ -13,6 +13,7 @@ Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semes
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=flat-square&logo=python&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%2300f.svg?style=flat-square&logo=linux&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
