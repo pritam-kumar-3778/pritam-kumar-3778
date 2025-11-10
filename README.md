@@ -2,7 +2,10 @@
 
 Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semester of MCA.
 
-♦️Expertise at current job : 
+♦️ Learning and working over
+- > Python programming.
+
+♦️Expertise at job : 
 -> Linux, Shell Scripting, Putty troubleshooting
 - > Backend Management
 - > AWS
@@ -37,6 +40,7 @@ Thank you for visiting my profile. Feel free to reach out me.
 
 
 # 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=flat-square&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 
