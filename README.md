@@ -1,16 +1,35 @@
-# 💫 About Me:
-- Hi 👋, I'm Pritam Kumar Patel<br>
-- I’m a Full Stack Developer and Tech Enthusiast <br>
-- I’m currently learning Spring boot and Spring security. And improving problem solving skills by practice DSA (Java) problems from leetcode.<br>
-- Ask me about MERN(Mongo DB, Express JS, React JS, Node JS) along eith this HTML, CSS, Java Script and Spring Boot for development <br>
-- How to reach me pritamkumarpatel1212@gmail.com<br>
-- I am passionate about staying up-to-date with the 
-latest trends and technologies in the field of 
-software development,
-and I am committed to delivering high-quality solutions 
-that exceed expectations. Whether working independently
-or as part of a team, I am dedicated to achieving success 
-and making a positive impact through my work.
+# 🌟 Software Engineer
+
+Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semester of MCA.
+
+♦️Expertise at current job : 
+-> Linux, Shell Scripting, Putty troubleshooting
+- > Backend Management
+- > AWS
+-> SQL 
+- > Server management - VICI Dial Server, PBX , VTS Dialer ( Own Integrated )
+- > Switch : VOS3000, Veri Switch, Free Switch
+
+- > Providing SMS ( Promotional, Transactional, OTP ) Service through different platform e.g- Almuqeet, Alpha Messaging platform with 99.9% accurecy rate.
+
+- > FusionPBX
+
+- > Handle client and solving issues instantly in real time, Worldwide.
+- > Managing  and set up routing with various vendors.
+
+
+♦️Apart from the job :
+- > solid understanding of object-oriented principles and design patterns.
+- > Familiarity with frontend development technologies like HTML, CSS, JavaScript, React JS and also hands-on experience with the MERN (MongoDB, Express.js, React.js, Node.js) technology stack, including building RESTful APIs and developing dynamic user interfaces. 
+- > Knowledge with different tools like Android Studio, Figma and more.
+
+♦️Soft Skills :
+- > Excellent teamwork and communication skills, with the ability to collaborate effectively in a cross-functional team environment. I was also lead a team on Smart India Hackathon(Internal Level).
+
+- > I enjoy tackling complex challenges and finding elegant solutions through structured thinking and effective collaboration. (That time when get solution for a complex problem is really gives inner happiness:)
+
+Thank you for visiting my profile. Feel free to reach out me.
+
 
 
 ## 🌐 Links:
