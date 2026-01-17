@@ -95,28 +95,26 @@ Hi, I'm Pritam Kumar Patel — a Software Engineer with over 2 years of experien
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-kumar-3778&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-kumar-3778&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Activity Graph" height="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritam-kumar-3778&theme=radical&hide_border=true" alt="GitHub Activity Graph" height="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=20&row=2&column=4" alt="GitHub Trophies" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pritam-kumar-3778&theme=radical&no-frame=true&margin-w=20&row=2&column=4" alt="GitHub Trophies" height="150"/>
 </p>
 
 ---
 
 ## 📫 How to reach me:
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="pritamkumarpatel1212.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-*Note: Replace `YOUR_USERNAME` with your actual GitHub username and `your.email@example.com` with your email address in all the links above.*
