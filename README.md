@@ -1,32 +1,33 @@
-# Software Engineer
+# Software Engineer (AI/ML specialization)
 
-Hi, I'm Pritam Kumar Patel — a Software Engineer with over 2 years of experience since my 3rd semester of MCA.
+Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semester of MCA.
 
 ## 🚀 About Me
-- Passionate about building efficient and scalable solutions
-- Currently learning and working with Python programming
-- Interested in full-stack development and system design
+
+🔬 AI/ML Specialist: Focused on developing intelligent systems and machine learning models
+🐍 Python Expert: Deep expertise in Python with libraries.
+🤖 Machine Learning: Building predictive models, NLP systems, and computer vision solutions
+📊 Data Science: Experienced in data analysis, visualization, and statistical modeling
+🚀 MLOps: Implementing machine learning pipelines and deployment solutions
+💡 Research-Oriented: Keeping up with cutting-edge AI research and implementing SOTA models
 
 ## 🔗 Links:
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://pritam-tech.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/pritam-kumar-patel-16aa68248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank">
+  <!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="#" target="_blank">
+  </a> -->
+  <!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="#" target="_blank">
+  </a> -->
+  <!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=quora&logoColor=white" alt="Quora"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -90,12 +91,6 @@ Hi, I'm Pritam Kumar Patel — a Software Engineer with over 2 years of experien
 </p>
 
 ---
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam-kumar-3778&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritam-kumar-3778&theme=radical&hide_border=true" alt="GitHub Activity Graph" height="300"/>
