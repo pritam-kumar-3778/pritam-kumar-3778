@@ -5,10 +5,15 @@ Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semes
 ## 🚀 About Me
 
 🔬 AI/ML Specialist: Focused on developing intelligent systems and machine learning models
+
 🐍 Python Expert: Deep expertise in Python with libraries.
+
 🤖 Machine Learning: Building predictive models, NLP systems, and computer vision solutions
+
 📊 Data Science: Experienced in data analysis, visualization, and statistical modeling
+
 🚀 MLOps: Implementing machine learning pipelines and deployment solutions
+
 💡 Research-Oriented: Keeping up with cutting-edge AI research and implementing SOTA models
 
 ## 🔗 Links:
