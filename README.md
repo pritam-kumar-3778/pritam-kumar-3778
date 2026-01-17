@@ -68,9 +68,6 @@ Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semes
 <p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
 ### Frontend
