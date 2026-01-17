@@ -52,6 +52,16 @@ Hi, I'm Pritam Kumar Patel -- a Software Engineer over 2 years from my 3rd semes
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Programming"/> -->
 </p>
 
+### Data Collection
+<img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="Database"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+<img src="https://img.shields.io/badge/UCI%20ML%20Repo-0066CC?style=for-the-badge&logo=universityofcalifornia&logoColor=white" alt="UCI ML Repository"/>
+<img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API"/>
+<img src="https://img.shields.io/badge/Web%20Scraping-4A90E2?style=for-the-badge&logo=webscraper.io&logoColor=white" alt="Web Scraping"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-4A90E2?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/>
+<img src="https://img.shields.io/badge/Scrapy-4A90E2?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
+
 ### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
