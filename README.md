@@ -95,19 +95,10 @@ Hi, I'm Pritam Kumar Patel — a Software Engineer with over 2 years of experien
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritam-kumar-3778&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-kumar-3778&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-kumar-3778&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritam-kumar-3778&theme=radical&hide_border=true" alt="GitHub Activity Graph" height="300"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritam-kumar-3778&theme=radical&no-frame=true&margin-w=20&row=2&column=4" alt="GitHub Trophies" height="150"/>
 </p>
 
 ---
